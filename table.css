@@ -1,0 +1,21 @@
+.t-products {
+    float: left;
+}
+
+.products {
+    color: #fff;
+}
+
+thead {
+    background-color: #000;
+}
+
+tbody {
+    background-color: #808080;
+}
+
+.e-products {
+    float: left;
+    width: 145px;
+    background-color: #808080;
+}
